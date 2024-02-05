@@ -1,0 +1,17 @@
+{
+  "include":["index.ts", "index.test.ts"],
+  "compilerOptions": {
+    "esModuleInterop":true,
+    "outDir": "./dist/",
+    "module": "es6",
+    "target": "ES2022",
+    "declaration": true,
+    "lib": ["ESNext"],
+    "strict": true,
+    "skipLibCheck": true,
+    "noUncheckedIndexedAccess": true,
+    "moduleDetection": "force",
+    "isolatedModules": true,
+    "sourceMap": true
+  },
+}
