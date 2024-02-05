@@ -1,6 +1,6 @@
 {
   "name": "@pjack/tjson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse typed objects from JSON.",
   "types": "dist/index.d.ts",
   "type": "module",
