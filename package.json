@@ -1,6 +1,6 @@
 {
   "name": "tjson",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "Parse typed objects from JSON.",
   "types": "dist/index.d.ts",
   "type": "module",
